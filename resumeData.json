@@ -1,0 +1,78 @@
+{
+  "main": {
+    "name":"Daniel Adea",
+    "description":"I am an undergrad studying computer science at UCLA",
+    "image":"profilepic.jpg",
+    "bio":"I am a student at UCLA in the Henry Samueli School of Engineering set to graduate in 2021. I work part time as a web developer at the Garrick Institute of Risk Sciences. I graduated from Los Osos High School, Rancho Cucamonga CA with high honors in 2017. I enjoy rock climbing and playing basketball. I am also a clarinetist in the UCLA marching band.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "dadea@ucla.edu",
+    "phone": "909-527-9123",
+    "website": "https://www.danieladea.com",
+    "resumelink": "https://drive.google.com/file/d/1tAh5iVHsRxLlppZmdLb6p8YR7yMlJ6d1/view?usp=sharing",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/danieladea",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/danieladea",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"University of California, Los Angeles",
+        "degree":"B.S. in Computer Science",
+        "graduated":"June 2021",
+        "description":"Courses: Data Structures and Algorithms, Computer Organization, Software Construction Laboratory, Introduction to Machine Learning, Matlab Programming with Engineering Applications"
+      }
+    ],
+    "work":[
+      {
+        "company":"HRL Laboratories, Malibu",
+        "title":"Software Research Intern",
+        "years":"June 2019 - September 2019",
+        "description":"Researched latest developments in papers and github for computer vision on vehicles. Tested different implementations with Docker and presented quantitative and qualitative results in meetings. Sped up setup processes by developing shell scripts to parse data, edit files, etc. Developed python code with the FastAI library to retrain networks for classification and object detection"
+      },
+      {
+        "company":"UCLA Institute of Risk Sciences, Los Angeles",
+        "title":"Front-End Developer",
+        "years":"March 2019 - Present",
+        "description":"Used React.js, HTML, and CSS to implement website pages for Nasa JPL and other private companies. Halved page load times by fixing navigation through routing and cleaning up unnecessary API calls. Created settings pages, drawerlists, buttons, etc. with MaterialUI to make usage easier and more efficient"
+      }
+    ]
+    
+  },
+  "newskills":{
+    "projects": [
+      {
+        "title":"C++",
+        "image":"c++.png"
+      },
+      {
+        "title":"Python",
+        "image":"python.png"
+        
+      },
+      {
+        "title":"React",
+        "image":"React.js.png"
+        
+      },
+      {
+        "title":"Bash",
+        "image":"bash.png"
+      },
+      {
+        "title":"Git",
+        "image":"git.png"
+      }
+    ]
+  }
+
+}
