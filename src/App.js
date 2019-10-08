@@ -23,7 +23,7 @@ class App extends Component {
 
   getResumeData(){
     $.ajax({
-      url:'https://danieladea.github.io/danieladea/danieladea/resumeData.json',
+      url:'https://danieladea.github.io/webpage/webpage/resumeData.json',
       dataType:'json',
       cache: false,
       success: function(data){
