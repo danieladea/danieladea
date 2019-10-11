@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/danieladea/static/css/main.5facb584.chunk.css",
-    "main.js": "/danieladea/static/js/main.e81c10c7.chunk.js",
-    "main.js.map": "/danieladea/static/js/main.e81c10c7.chunk.js.map",
+    "main.js": "/danieladea/static/js/main.6de04b0b.chunk.js",
+    "main.js.map": "/danieladea/static/js/main.6de04b0b.chunk.js.map",
     "runtime-main.js": "/danieladea/static/js/runtime-main.776d28e1.js",
     "runtime-main.js.map": "/danieladea/static/js/runtime-main.776d28e1.js.map",
     "static/js/2.16f4474a.chunk.js": "/danieladea/static/js/2.16f4474a.chunk.js",
     "static/js/2.16f4474a.chunk.js.map": "/danieladea/static/js/2.16f4474a.chunk.js.map",
     "index.html": "/danieladea/index.html",
-    "precache-manifest.c261d108b4766010010206476b6344c7.js": "/danieladea/precache-manifest.c261d108b4766010010206476b6344c7.js",
+    "precache-manifest.130f2d05eddbe7f3feaae779249e8885.js": "/danieladea/precache-manifest.130f2d05eddbe7f3feaae779249e8885.js",
     "service-worker.js": "/danieladea/service-worker.js",
     "static/css/main.5facb584.chunk.css.map": "/danieladea/static/css/main.5facb584.chunk.css.map"
   },
@@ -16,6 +16,6 @@
     "static/js/runtime-main.776d28e1.js",
     "static/js/2.16f4474a.chunk.js",
     "static/css/main.5facb584.chunk.css",
-    "static/js/main.e81c10c7.chunk.js"
+    "static/js/main.6de04b0b.chunk.js"
   ]
 }

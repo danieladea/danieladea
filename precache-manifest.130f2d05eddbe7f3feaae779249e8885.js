@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f272110d7dc1ed580a07a197bcfd9eb7",
+    "revision": "dba4ea08b7159968f8dd7bd33e5155b8",
     "url": "/danieladea/index.html"
   },
   {
-    "revision": "82de9274acf3f26f6af9",
+    "revision": "c2aa8447c1a5fb749e3a",
     "url": "/danieladea/static/css/main.5facb584.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/danieladea/static/js/2.16f4474a.chunk.js"
   },
   {
-    "revision": "82de9274acf3f26f6af9",
-    "url": "/danieladea/static/js/main.e81c10c7.chunk.js"
+    "revision": "c2aa8447c1a5fb749e3a",
+    "url": "/danieladea/static/js/main.6de04b0b.chunk.js"
   },
   {
     "revision": "b0064f93a66e9c62299a",
