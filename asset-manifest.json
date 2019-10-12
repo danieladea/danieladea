@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.5facb584.chunk.css",
-    "main.js": "/static/js/main.813bfea7.chunk.js",
-    "main.js.map": "/static/js/main.813bfea7.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.50aa320d.js",
-    "runtime-main.js.map": "/static/js/runtime-main.50aa320d.js.map",
-    "static/js/2.16f4474a.chunk.js": "/static/js/2.16f4474a.chunk.js",
-    "static/js/2.16f4474a.chunk.js.map": "/static/js/2.16f4474a.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.c28d8b91759b940dd881fd35e2231acf.js": "/precache-manifest.c28d8b91759b940dd881fd35e2231acf.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.5facb584.chunk.css.map": "/static/css/main.5facb584.chunk.css.map"
+    "main.css": "/danieladea/static/css/main.5facb584.chunk.css",
+    "main.js": "/danieladea/static/js/main.d2d7d021.chunk.js",
+    "main.js.map": "/danieladea/static/js/main.d2d7d021.chunk.js.map",
+    "runtime-main.js": "/danieladea/static/js/runtime-main.776d28e1.js",
+    "runtime-main.js.map": "/danieladea/static/js/runtime-main.776d28e1.js.map",
+    "static/js/2.16f4474a.chunk.js": "/danieladea/static/js/2.16f4474a.chunk.js",
+    "static/js/2.16f4474a.chunk.js.map": "/danieladea/static/js/2.16f4474a.chunk.js.map",
+    "index.html": "/danieladea/index.html",
+    "precache-manifest.f2beed309001b9cd0966a314418f5cec.js": "/danieladea/precache-manifest.f2beed309001b9cd0966a314418f5cec.js",
+    "service-worker.js": "/danieladea/service-worker.js",
+    "static/css/main.5facb584.chunk.css.map": "/danieladea/static/css/main.5facb584.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.50aa320d.js",
+    "static/js/runtime-main.776d28e1.js",
     "static/js/2.16f4474a.chunk.js",
     "static/css/main.5facb584.chunk.css",
-    "static/js/main.813bfea7.chunk.js"
+    "static/js/main.d2d7d021.chunk.js"
   ]
 }
