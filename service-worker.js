@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/danieladea/precache-manifest.f2beed309001b9cd0966a314418f5cec.js"
+  "/danieladea/precache-manifest.54912bb93b9fe9276ecfc989a04a8528.js"
 );
 
 self.addEventListener('message', (event) => {
