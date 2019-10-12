@@ -2,7 +2,7 @@
   "name": "danieladea",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://danieladea.com",
+  "homepage": "https://danieladea.github.io/danieladea",
   "dependencies": {
     "jquery": "^3.4.1",
     "react": "^16.10.2",
